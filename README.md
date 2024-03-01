@@ -1,5 +1,5 @@
 # Supply-Chain-Analytics
-Hello Guys,
+
 Data Collection: Collecting data from various sources such as ERP systems, warehouse management systems, transportation management systems, and other relevant sources.
 Data Cleaning and Preparation: Cleaning and preparing the data for analysis, which may involve removing duplicates, handling missing values, and transforming the data into a format suitable for analysis.
 Data Analysis: Analyzing the data to identify patterns, trends, and insights that can help optimize the supply chain. This may involve using statistical techniques, machine learning algorithms, and data visualization tools.
